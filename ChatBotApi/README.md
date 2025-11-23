@@ -91,15 +91,18 @@ API, IP bazlı rate limiting kullanır:
 - 1 saniyede maksimum 1 istek
 - Limit aşılırsa `429 Too Many Requests` döner
 
-## Render.com Deployment
+## Render.com Deployment (Docker)
 
 1. GitHub'a projeyi push edin
-2. Render.com'da yeni Web Service oluşturun
+2. Render.com'da yeni **Web Service** oluşturun
 3. GitHub repo'nuzu bağlayın
-4. Environment Variables ekleyin:
+4. **Docker** seçeneğini seçin (Render otomatik olarak Dockerfile'ı bulacak)
+5. Environment Variables ekleyin:
    - `OPENAI_API_KEY` = sk-your-api-key-here
-5. Build Command: `dotnet build`
-6. Start Command: `dotnet run --urls http://0.0.0.0:$PORT`
+   - `PORT` = 8080 (Render otomatik set eder, ama manuel de ekleyebilirsiniz)
+6. Deploy edin!
+
+**Not:** Render.com otomatik olarak Dockerfile'ı bulur ve build eder. Herhangi bir build/start command girmenize gerek yok.
 
 ## Notlar
 

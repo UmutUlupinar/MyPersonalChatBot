@@ -168,7 +168,9 @@ app.MapPost("/ask", async (HttpContext context, AskRequest request) =>
 app.MapGet("/health", () => Results.Json(new { status = "ok" }))
     .WithName("Health");
 
-app.Run();
+// Render.com için PORT environment variable'ını kullan
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+app.Run($"http://0.0.0.0:{port}");
 
 // Request model
 record AskRequest(string? Question);

@@ -1,0 +1,15 @@
+# Render.com deployment configuration (optional)
+# Bu dosya Render.com'da otomatik deployment için kullanılabilir
+
+services:
+  - type: web
+    name: chatbot-api
+    env: docker
+    dockerfilePath: ./ChatBotApi/Dockerfile
+    dockerContext: ./ChatBotApi
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false  # Manuel olarak Render dashboard'dan ekleyin
+      - key: PORT
+        value: 8080  # Render otomatik set eder, bu opsiyonel
+
