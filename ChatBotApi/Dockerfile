@@ -21,6 +21,9 @@ WORKDIR /app
 # Copy published app
 COPY --from=publish /app/publish .
 
+# Copy prompts folder (backup - should be included in publish, but ensuring it's there)
+COPY --from=build /src/prompts ./prompts
+
 # Expose port (Render.com will set PORT env var dynamically)
 EXPOSE 8080
 
