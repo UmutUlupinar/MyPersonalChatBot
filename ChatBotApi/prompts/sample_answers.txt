@@ -1,0 +1,68 @@
+Soru: "What is Umut Ulupınar's date of birth?"
+Cevap: "Mustafa Umut Ulupınar was born on 20.07.1997."
+
+Soru: "Where is Umut located?"
+Cevap: "Umut is based in Istanbul, Turkey."
+
+Soru: "Which university did Umut attend for his bachelor's degree?"
+Cevap: "He attended TOBB University of Economics & Technology for his Bachelor's in Electrical and Electronics Engineering with a 100% scholarship."
+
+Soru: "Did Umut complete his master's degree?"
+Cevap: "No, he enrolled in Marmara University for a Master's in Computer Engineering but later dropped out."
+
+Soru: "Which high school did Umut attend?"
+Cevap: "Prof. Dr. Fuat Sezgin Science High School (2011–2015)."
+
+Soru: "What are Umut's English language skills?"
+Cevap: "English: C1 in Listening, Reading, and Grammar; B2 in Speaking."
+
+Soru: "Does Umut speak Spanish?"
+Cevap: "Yes, at an elementary level."
+
+Soru: "Which programming languages does Umut know?"
+Cevap: "C#, JavaScript, Java, Python, C, C++."
+
+Soru: "What .NET frameworks and technologies does Umut work with?"
+Cevap: ".NET 6/7/8/9/10, ASP.NET MVC, Web API, Minimal API, Entity Framework, LINQ, EF Migrations."
+
+Soru: "Which databases does Umut have experience with?"
+Cevap: "PostgreSQL, MS SQL, MongoDB, MySql"
+
+Soru: "Does Umut have microservices experience?"
+Cevap: "Yes, he has hands-on experience with Docker, Kubernetes, NATS.IO, Redis, and Saga pattern for distributed transactions."
+
+Soru: "Which messaging systems does Umut know?"
+Cevap: "Kafka and RabbitMQ (conceptual knowledge)."
+
+Soru: "Has Umut worked on CI/CD pipelines?"
+Cevap: "Yes, with GitHub Actions, Jenkins (conceptual), ArgoCD, CapRover, and basic Azure DevOps."
+
+Soru: "Has Umut done unit testing or integration testing?"
+Cevap: "Yes, he has experience with unit tests, integration tests, and BDD testing with SpecFlow."
+
+Soru: "Which frontend frameworks does Umut know?"
+Cevap: "JavaScript (intermediate), Angular and React (basic)."
+
+Soru: "Which cloud platforms has Umut been exposed to?"
+Cevap: "Azure and Cloudflare."
+
+Soru: "What fintech domain knowledge does Umut have?"
+Cevap: "POS & card payment systems, e-wallet systems, fraud detection & prevention, financial reporting processes, multi-tenant architectures, and fintech job scheduling systems."
+
+Soru: "Which companies has Umut worked for recently?"
+Cevap: "Vepara Digital Payment & Services, Turkish Technology, Otokoç Otomotiv, Konuşarak Öğren, Retodi, Fenerbahçe University, Kuatro.Plast, Event Gates."
+
+Soru: "What was Umut's role at Vepara?"
+Cevap: "Software Developer, developing RESTful APIs for fintech solutions using .NET Core and multi-tenant microservice architecture."
+
+Soru: "Has Umut worked with distributed tracing?"
+Cevap: "Yes, he has hands-on experience with Jaeger Distributed Tracing."
+
+Soru: "What are Umut's exam achievements?"
+Cevap: "YGS (2015): 463 pts, 171st nationwide; YGS-LYS (2015): 490 pts, 2480th nationwide; ALES (2021/3): 98 pts, 27th nationwide; YÖK-DİL (2021/2): 79; TOEFL ITP (2016): 506."
+
+Soru: "Does Umut have experience in ERP or CRM systems?"
+Cevap: "Yes, he has full-stack .NET experience maintaining ERP systems (Otokoç) and CRM systems (Turkish Technology)."
+
+Soru: "Has Umut used Elasticsearch and Kibana?"
+Cevap: "Yes, he has hands-on experience with Elasticsearch and is familiar with Kibana."

@@ -1,0 +1,135 @@
+===== PERSONAL INFORMATION =====
+Name: Mustafa Umut Ulupınar
+Birth Date: 20.07.1997
+Location: Istanbul, Turkey
+Email: umutulupinarrr@gmail.com
+Phone: +90 505 219 2058
+GitHub: https://github.com/UmutUlupinar
+LinkedIn: https://www.linkedin.com/in/mustafa-umut-ulupinar-b11796207/
+Military Service: Completed
+
+===== EDUCATION =====
+2015–2021 — TOBB University of Economics & Technology  
+Bachelor’s Degree in Electrical & Electronics Engineering (100% Scholarship)
+
+2022–2023 — Marmara University  
+Master’s Degree in Computer Engineering (Dropped Out)
+
+2011–2015 — Prof. Dr. Fuat Sezgin Science High School
+
+===== LANGUAGE SKILLS =====
+English: C1 (Listening / Reading / Grammar), B2 (Speaking)  
+Spanish: Elementary
+
+===== SOFTWARE SKILLS =====
+-- .NET & Backend --
+• .NET 6/7/8/9, ASP.NET MVC, Web API, Minimal API
+• Entity Framework, LINQ, EF Migrations
+• Design Patterns: CQRS, Repository, Factory, Strategy, Observer, Singleton, Dependency Injection, Saga Pattern
+
+-- Microservices & Distributed Systems --
+• Docker, Kubernetes (hands-on)
+• RESTful API design
+• NATS.IO (hands-on)
+• Kafka, RabbitMQ (conceptual knowledge)
+• Redis, Elasticsearch
+• Distributed Transactions – Saga Pattern (hands-on)
+
+-- Databases --
+• PostgreSQL (professional level)
+• MS SQL Server (T-SQL, functions, stored procedures)
+• MongoDB (hands-on)
+• Query optimization, transactions, locking, migration handling
+
+-- Testing & QA --
+• Unit tests, integration tests
+• BDD testing with SpecFlow
+• UI testing with Selenium (Java)
+
+-- Observability & Logging --
+• Jaeger Distributed Tracing
+• Elasticsearch (hands-on)
+• Kibana (familiar)
+
+-- CI/CD & DevOps --
+• Git (hands-on)
+• GitHub Actions (hands-on)
+• Jenkins (conceptual)
+• ArgoCD, CapRover (hands-on)
+• Azure DevOps (familiar, project-based)
+• Shell scripting (basic)
+
+-- Frontend --
+• JavaScript (intermediate)
+• Angular, React (basic)
+
+-- Additional Programming Languages --
+• Java (intermediate)
+• C, C++, Python (basic)
+
+-- Cloud & Other Technologies --
+• Azure (exposure)
+• Cloudflare (exposure)
+
+===== FINTECH & DOMAIN KNOWLEDGE =====
+• POS & Card Payment Systems  
+• E-Wallet systems  
+• Fraud detection & prevention  
+• Financial reporting processes  
+• Multi-tenant architectures  
+• Fintech job scheduling systems
+
+===== EXAMS & ACHIEVEMENTS =====
+• YGS (2015): 463 pts — Ranked 171st nationwide  
+• YGS-LYS (2015): 490 pts — Ranked 2480th nationwide  
+• ALES (2021/3): Score 98 — Ranked 27th nationwide  
+• YÖK-DİL (2021/2): Score 79  
+• TOEFL ITP (2016): Score 506
+
+===== PROFESSIONAL EXPERIENCE =====
+Vepara Digital Payment & Services (Aug 2023 – Present) — Software Developer  
+• Developed RESTful APIs for fintech solutions using .NET Core  
+• Worked on a multi-tenant microservice architecture  
+• Integrated reporting, e-wallet and card payment systems  
+• Hands-on use of Docker, Redis, PostgreSQL, and distributed architectural tools
+
+Turkish Technology (Sep 2023 – Oct 2023) — Full-Stack .NET Developer  
+• Maintained monolithic CRM systems built with ASP.NET  
+• Supported backend feature development and optimization
+
+Otokoç Otomotiv (Nov 2022 – May 2023) — Full-Stack .NET Developer  
+• Full-stack development of ERP systems using ASP.NET WebForms  
+• Heavy SQL Server SP development and performance tuning
+
+Konuşarak Öğren (May 2022 – Nov 2022) — Backend .NET Developer  
+• Backend microservices development (.NET 6)  
+• Supported internal backoffice integrations
+
+Retodi (Mar 2022 – May 2022) — Backend Developer  
+• .NET-based e-commerce solutions
+
+Fenerbahçe University (Nov 2021 – Mar 2022) — .NET Developer  
+• Worked on web application projects  
+
+Kuatro.Plast (Sep 2020 – Apr 2021) — Automation Engineer  
+• Electrical department coordination  
+• Sales engineering operations
+
+Event Gates (May 2018 – Aug 2018) — R&D Software Developer Intern  
+• Safety systems software projects
+
+===== SUMMARY =====
+A backend-focused .NET developer with strong microservice architecture experience, deep fintech domain knowledge, high exam achievements, distributed tracing expertise, and hands-on experience in Docker, PostgreSQL, messaging systems, and multi-tenant architectures.
+
+===== TOTAL EXPERIENCE =====
+Worked about four years as a software developer. Worked as electrical engineer about one year. 
+Started to develop softwares at 2021, at 2022 got the first job as software developer(.Net Backend Developer). 
+Also he had knowledge about software sector at University years because of his internship. 
+
+=== EDUCATION SUMMARY =====
+
+Umut Ulupınar gained admission to Prof. Dr. Fuat Sezgin Science High School with a nationwide entrance exam success. 
+After completing high school, he achieved a top national rank (171st) in the university entrance exam 
+and was admitted to TOBB University of Economics & Technology with a 100% scholarship for a Bachelor's degree in Electrical and Electronics Engineering. 
+During his undergraduate studies, he successfully passed the TOEFL exam to demonstrate English proficiency. 
+Additionally, he scored 98 in the ALES exam (27th nationwide) and enrolled in the Master’s program in Computer Engineering at Marmara University, which he later left.
