@@ -52,7 +52,20 @@ Environment Variables olarak ekleyin:
 dotnet run
 ```
 
-API `http://localhost:5000` adresinde çalışacaktır.
+API `http://localhost:8080` adresinde çalışacaktır (veya `PORT` ortam değişkeninde belirtilen port).
+
+Tarayıcıda aynı adrese giderek **CV Asistanı** sohbet arayüzünü kullanabilirsiniz.
+
+## Web Arayüzü
+
+Proje, API ile aynı sunucudan servis edilen bir sohbet arayüzü içerir (`wwwroot/`).
+
+- Ana sayfa: `/` — mesajlaşma ekranı
+- `POST /ask` endpoint'ini kullanır
+- Rate limit (1 istek/saniye) istemci tarafında da dikkate alınır
+- Mobil uyumlu, karanlık tema
+
+Ek bir frontend build adımı gerekmez; Docker/Render dağıtımı değişmeden çalışır.
 
 ## API Endpoints
 

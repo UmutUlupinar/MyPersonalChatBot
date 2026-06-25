@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Umut Ulupınar — CV Asistanı</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header__brand">
+        <div class="header__avatar" aria-hidden="true">UU</div>
+        <div>
+          <h1 class="header__title">CV Asistanı</h1>
+          <p class="header__subtitle">Umut Ulupınar hakkında sorular sorun</p>
+        </div>
+      </div>
+      <span class="header__status" id="status" title="API durumu">●</span>
+    </header>
+
+    <main class="chat" id="chat" role="log" aria-live="polite" aria-label="Sohbet geçmişi">
+      <div class="message message--assistant">
+        <div class="message__bubble">
+          Merhaba! Ben Umut Ulupınar'ın CV asistanıyım. Kariyeri, deneyimi, eğitimi veya iletişim bilgileri hakkında sorularınızı yanıtlayabilirim.
+        </div>
+      </div>
+    </main>
+
+    <footer class="composer">
+      <form class="composer__form" id="form" autocomplete="off">
+        <label for="question" class="visually-hidden">Sorunuz</label>
+        <textarea
+          id="question"
+          class="composer__input"
+          rows="1"
+          placeholder="Bir soru yazın…"
+          maxlength="1000"
+          required
+        ></textarea>
+        <button type="submit" class="composer__send" id="send" aria-label="Gönder">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="22" y1="2" x2="11" y2="13"></line>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+          </svg>
+        </button>
+      </form>
+      <p class="composer__hint">Enter ile gönder · Shift+Enter yeni satır</p>
+    </footer>
+  </div>
+
+  <script src="/js/chat.js"></script>
+</body>
+</html>

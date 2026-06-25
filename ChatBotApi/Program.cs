@@ -21,6 +21,9 @@ var app = builder.Build();
 // CORS middleware
 app.UseCors();
 
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 // Rate limiting için basit bir dictionary (IP bazlı)
 var rateLimitStore = new ConcurrentDictionary<string, DateTime>();
 var rateLimitWindow = TimeSpan.FromSeconds(1); // 1 saniyede 1 istek
