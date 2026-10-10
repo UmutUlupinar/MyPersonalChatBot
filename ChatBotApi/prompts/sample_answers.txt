@@ -65,4 +65,4 @@ Soru: "Does Umut have experience in ERP or CRM systems?"
 Cevap: "Yes, he has full-stack .NET experience maintaining ERP systems (Otokoç) and CRM systems (Digiturk and Turkish Technology)."
 
 Soru: "Has Umut used Elasticsearch and Kibana?"
-Cevap: "Yes, he has hands-on experience with Elasticsearch and is familiar with Kibana."
+Cevap: "Yes, he has hands-on experience with Elasticsearch and with Kibana."

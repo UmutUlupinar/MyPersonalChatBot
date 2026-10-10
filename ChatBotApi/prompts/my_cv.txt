@@ -87,7 +87,12 @@ Spanish: Elementary
 • TOEFL ITP (2016): Score 506
 
 ===== PROFESSIONAL EXPERIENCE =====
-Vepara Digital Payment & Services (Aug 2023 – Present) — Software Developer  
+Digiturk (Oct 2026 – Present) — Software Developer  
+• Working on Tod global projects.
+• Developing RESTful APIs.
+• Developing backend and frontend environments.
+
+Vepara Digital Payment & Services (Aug 2023 – Jan 2026) — Software Developer  
 • Developed RESTful APIs for fintech solutions using .NET Core  
 • Worked on a multi-tenant microservice architecture  
 • Integrated reporting, e-wallet and card payment systems  

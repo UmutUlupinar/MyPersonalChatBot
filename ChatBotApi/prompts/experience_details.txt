@@ -6,7 +6,7 @@ Digiturk - TOD
 
 Period
 ------
-October 2026 - 
+October 2026 - Present
 
 Role
 ----
@@ -241,7 +241,9 @@ Worked with containerized microservices.
 
 Integrated event-driven communication using NATS.
 
-Designed transaction services using CQRS and Saga design pattern
+Designed transaction services using CQRS and Saga design pattern.
+
+I left beacuse company went bankrupt.
 
 
 

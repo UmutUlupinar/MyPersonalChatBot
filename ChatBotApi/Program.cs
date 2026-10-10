@@ -130,7 +130,7 @@ app.MapPost("/ask", async (HttpContext context, AskRequest request) =>
     }
     
     // API key kontrolü
-    var apiKey = builder.Configuration["OpenAI:ApiKey"] ?? Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+   var apiKey = builder.Configuration["OpenAI:ApiKey"] ?? Environment.GetEnvironmentVariable("OPENAI_API_KEY");
     
     if (string.IsNullOrEmpty(apiKey))
     {

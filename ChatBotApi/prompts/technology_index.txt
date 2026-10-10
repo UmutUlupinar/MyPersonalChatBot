@@ -16,6 +16,7 @@ Used At
 -------
 - Vepara Digital Payment and Services
 - Konuşarak Öğren
+- Digiturk
 
 Used In
 -------
