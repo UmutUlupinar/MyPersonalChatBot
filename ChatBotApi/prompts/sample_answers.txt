@@ -62,7 +62,7 @@ Soru: "What are Umut's exam achievements?"
 Cevap: "YGS (2015): 463 pts, 171st nationwide; YGS-LYS (2015): 490 pts, 2480th nationwide; ALES (2021/3): 98 pts, 27th nationwide; YÖK-DİL (2021/2): 79; TOEFL ITP (2016): 506."
 
 Soru: "Does Umut have experience in ERP or CRM systems?"
-Cevap: "Yes, he has full-stack .NET experience maintaining ERP systems (Otokoç) and CRM systems (Turkish Technology)."
+Cevap: "Yes, he has full-stack .NET experience maintaining ERP systems (Otokoç) and CRM systems (Digiturk and Turkish Technology)."
 
 Soru: "Has Umut used Elasticsearch and Kibana?"
 Cevap: "Yes, he has hands-on experience with Elasticsearch and is familiar with Kibana."

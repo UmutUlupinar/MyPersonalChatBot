@@ -1,0 +1,21 @@
+# Current Context
+
+## Current Date and Time
+
+The current date and time will be provided dynamically by the application.
+
+## Current Professional Context
+
+Umut is a software developer primarily focused on backend development and .NET technologies.
+
+Umut has recently started working on a global TOD project related to the development of CRM, CMS, and management systems for a streaming and digital entertainment platform.
+
+His work involves contributing to the project from its early stages through development and delivery.
+
+## Date and Timeline Rules
+
+* Use the current date provided by the application when answering questions about experience duration, employment periods, and timelines.
+* Calculate years of professional experience based on the dates and work history documented in the CV.
+* Do not invent employment dates, experience durations, or career milestones.
+* Distinguish between confirmed professional information and assumptions.
+* If a required date or detail is missing, avoid presenting an uncertain calculation as a fact.

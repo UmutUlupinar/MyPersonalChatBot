@@ -34,14 +34,50 @@ string LoadSystemPrompt()
     var baseRules = File.ReadAllText("prompts/base_rules.txt");
     var cv = File.ReadAllText("prompts/my_cv.txt");
     var sampleAnswers = File.ReadAllText("prompts/sample_answers.txt");
-    
+    var currentContext = File.ReadAllText("prompts/current_context.txt");
+    var experienceDetails = File.ReadAllText("prompts/experience_details.txt");
+    var faq = File.ReadAllText("prompts/faq.txt");
+    var githubProjects = File.ReadAllText("prompts/github_projects.md");
+    var interviewNotes = File.ReadAllText("prompts/interview_notes.txt");
+    var technologyIndex = File.ReadAllText("prompts/technology_index.txt");
+    var github = File.ReadAllText("prompts/github.txt");
+
+    var turkeyTime = TimeZoneInfo.ConvertTimeBySystemTimeZoneId(
+        DateTimeOffset.UtcNow,
+        "Europe/Istanbul");
+    var currentDate = turkeyTime.ToString("yyyy-MM-dd");
+
     return $@"{baseRules}
+
+GÜNCEL TARİH:
+{currentDate}
+
+GÜNCEL BAĞLAM:
+{currentContext}
 
 CV BİLGİLERİ:
 {cv}
 
+DENEYİM DETAYLARI:
+{experienceDetails}
+
+TEKNOLOJİ İNDEKSİ:
+{technologyIndex}
+
+GITHUB PROJELERİ:
+{githubProjects}
+
+SIK SORULAN SORULAR:
+{faq}
+
+MÜLAKAT NOTLARI:
+{interviewNotes}
+
 ÖRNEK SORU-CEVAPLAR:
 {sampleAnswers}
+
+BU CHATBOT PROJESİ (GITHUB ÖZETİ):
+{github}
 
 Yukarıdaki bilgileri kullanarak soruları cevapla. CV'de olmayan bilgiler hakkında konuşma.";
 }
