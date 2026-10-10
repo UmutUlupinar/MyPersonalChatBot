@@ -1,0 +1,1 @@
+MyPersonalChatBot, Umut Ulupınar’ın CV ve kariyer bilgilerine dayalı soruları yanıtlayan, .NET 10 minimal API ve gömülü web sohbet arayüzünden oluşan kişisel bir asistan projesidir. OpenAI API’si ile prompt dosyalarındaki kurallar, deneyim ve örnek cevaplar kullanılarak ziyaretçilere kontrollü ve profesyonel yanıtlar sunulur.

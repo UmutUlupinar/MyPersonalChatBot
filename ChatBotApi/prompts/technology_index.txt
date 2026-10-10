@@ -1,0 +1,1213 @@
+====================================================
+TECHNOLOGY
+====================================================
+
+.NET Core
+
+Category
+--------
+Backend Framework
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+- Konuşarak Öğren
+
+Used In
+-------
+- REST API Development
+- Microservices
+- Backend Development
+- Multi-Tenant Applications
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+- BankOps Observatory
+
+Keywords
+--------
+.NET Core
+ASP.NET Core
+Web API
+Entity Framework Core
+Minimal API
+
+Notes
+-----
+Primary backend framework used throughout professional software development career.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+ASP.NET Web API
+
+Category
+--------
+Backend Framework
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+- Konuşarak Öğren
+
+Used In
+-------
+- REST API Development
+- Backend Services
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+REST API
+ASP.NET
+Backend
+
+Notes
+-----
+Developed production-grade RESTful APIs.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+ASP.NET WebForms
+
+Category
+--------
+Backend Framework
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Otokoç Otomotiv
+
+Used In
+-------
+- ERP Development
+- Legacy Enterprise Systems
+
+Related GitHub Projects
+-----------------------
+None
+
+Keywords
+--------
+ASP.NET WebForms
+ERP
+
+Notes
+-----
+Maintained and developed enterprise ERP applications.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Entity Framework Core
+
+Category
+--------
+ORM
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+- Konuşarak Öğren
+
+Used In
+-------
+- Data Access
+- Repository Pattern
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+Entity Framework
+EF Core
+ORM
+
+Notes
+-----
+Used extensively for backend data access.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Python
+
+Category
+--------
+Programming Language
+
+Experience Level
+----------------
+Advanced Hands-on Experience
+
+Used At
+-------
+- Personal Projects
+- AI Projects
+
+Used In
+-------
+- OpenAI API Integration
+- AI Applications
+- Automation
+- Backend Development
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+- BankOps Observatory
+
+Keywords
+--------
+Python
+Automation
+AI
+Backend
+
+Notes
+-----
+Strong Python knowledge with practical experience building AI applications, automation tools and backend services.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+OpenAI API
+
+Category
+--------
+Artificial Intelligence
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Personal Projects
+
+Used In
+-------
+- AI Resume Assistant
+- Prompt Engineering
+- LLM Integration
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+GPT
+OpenAI
+LLM
+Prompt Engineering
+
+Notes
+-----
+Developed applications integrating OpenAI models using REST APIs and structured prompt engineering.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+LangChain
+
+Category
+--------
+LLM Framework
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- LLM Orchestration
+- AI Agents
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+LangChain
+Agents
+RAG
+
+Notes
+-----
+Practical experience gained through AI engineering projects and advanced training.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+RAG (Retrieval-Augmented Generation)
+
+Category
+--------
+Artificial Intelligence
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Knowledge Base Applications
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+RAG
+Vector Search
+Knowledge Base
+
+Notes
+-----
+Implemented Retrieval-Augmented Generation concepts in AI applications.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+LLM Orchestration
+
+Category
+--------
+Artificial Intelligence
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- AI Agents
+- Prompt Engineering
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+LLM
+Orchestration
+AI
+
+Notes
+-----
+Experience orchestrating Large Language Model workflows.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+AI Agents
+
+Category
+--------
+Artificial Intelligence
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Intelligent Automation
+- Agentic AI
+
+Related GitHub Projects
+-----------------------
+- AI Resume Assistant
+
+Keywords
+--------
+AI Agent
+Agentic AI
+
+Notes
+-----
+Designed and developed AI Agent based applications.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Scikit-Learn
+
+Category
+--------
+Machine Learning
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Machine Learning
+
+Related GitHub Projects
+-----------------------
+- Machine Learning Projects
+
+Keywords
+--------
+Scikit-Learn
+ML
+
+Notes
+-----
+Applied classical machine learning algorithms.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Keras
+
+Category
+--------
+Deep Learning
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Deep Learning
+
+Related GitHub Projects
+-----------------------
+- Deep Learning Projects
+
+Keywords
+--------
+Keras
+TensorFlow
+
+Notes
+-----
+Built deep learning applications using Keras.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+NumPy
+
+Category
+--------
+Data Science
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Numerical Computing
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+NumPy
+
+Notes
+-----
+Used for scientific computing and numerical analysis.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Pandas
+
+Category
+--------
+Data Analysis
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Data Processing
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+Pandas
+
+Notes
+-----
+Used for data manipulation and analysis.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+SciPy
+
+Category
+--------
+Scientific Computing
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Statistical Analysis
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+SciPy
+
+Notes
+-----
+Applied scientific computing techniques.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Matplotlib
+
+Category
+--------
+Data Visualization
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Data Visualization
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+Matplotlib
+
+Notes
+-----
+Created analytical visualizations.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Seaborn
+
+Category
+--------
+Data Visualization
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Statistical Visualization
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+Seaborn
+
+Notes
+-----
+Built statistical visualization dashboards.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Plotly
+
+Category
+--------
+Data Visualization
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Interactive Dashboards
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+Plotly
+
+Notes
+-----
+Created interactive charts and dashboards.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Bokeh
+
+Category
+--------
+Data Visualization
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- AI Learning Projects
+
+Used In
+-------
+- Interactive Visualization
+
+Related GitHub Projects
+-----------------------
+- AI Projects
+
+Keywords
+--------
+Bokeh
+
+Notes
+-----
+Used for interactive visualization applications.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+PostgreSQL
+
+Category
+--------
+Database
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Backend Development
+- Microservices
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+PostgreSQL
+SQL
+JSONB
+
+Notes
+-----
+Professional experience designing queries, JSONB operations and high-performance database interactions.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+SQL Server
+
+Category
+--------
+Database
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Otokoç Otomotiv
+- Turkish Technology
+
+Used In
+-------
+- ERP
+- CRM
+
+Related GitHub Projects
+-----------------------
+None
+
+Keywords
+--------
+SQL Server
+T-SQL
+Stored Procedures
+
+Notes
+-----
+Professional experience writing complex SQL queries and stored procedures.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+MongoDB
+
+Category
+--------
+Database
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Konuşarak Öğren
+
+Used In
+-------
+- Microservices
+
+Related GitHub Projects
+-----------------------
+None
+
+Keywords
+--------
+MongoDB
+
+Notes
+-----
+Used in production microservice applications.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Redis
+
+Category
+--------
+Caching
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Distributed Systems
+- Caching
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Redis
+Cache
+
+Notes
+-----
+Used for distributed caching.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Docker
+
+Category
+--------
+Containerization
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+- Konuşarak Öğren
+
+Used In
+-------
+- Microservices
+- Deployment
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Docker
+Containers
+
+Notes
+-----
+Containerized backend applications and services.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Kubernetes
+
+Category
+--------
+Container Orchestration
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Deployment
+- Microservices
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Kubernetes
+K8s
+
+Notes
+-----
+Worked with Kubernetes deployments and container orchestration.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+NATS
+
+Category
+--------
+Messaging
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Event Driven Communication
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+NATS
+Messaging
+
+Notes
+-----
+Integrated event-driven communication using NATS.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+RabbitMQ
+
+Category
+--------
+Messaging
+
+Experience Level
+----------------
+Familiar Knowledge
+
+Notes
+-----
+Familiar with RabbitMQ concepts and architecture.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Kafka
+
+Category
+--------
+Messaging
+
+Experience Level
+----------------
+Familiar Knowledge
+
+Notes
+-----
+Familiar with Apache Kafka architecture and messaging concepts.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Jaeger
+
+Category
+--------
+Observability
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Distributed Tracing
+
+Related GitHub Projects
+-----------------------
+- JaegerTracerDotNet
+- BankOps Observatory
+
+Keywords
+--------
+Jaeger
+Tracing
+Observability
+
+Notes
+-----
+Used Jaeger to analyze distributed requests and production issues.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Elasticsearch
+
+Category
+--------
+Search & Observability
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Logging
+- Search
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Elasticsearch
+Logging
+
+Notes
+-----
+Used Elasticsearch for centralized logging and search.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Kibana
+
+Category
+--------
+Observability
+
+Experience Level
+----------------
+Familiar Knowledge
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Used In
+-------
+- Log Visualization
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Kibana
+Logging
+
+Notes
+-----
+Used Kibana for monitoring and log analysis.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+CQRS
+
+Category
+--------
+Architecture
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+CQRS
+Architecture
+
+Notes
+-----
+Designed transaction services using the CQRS pattern.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Saga Pattern
+
+Category
+--------
+Architecture
+
+Experience Level
+----------------
+Hands-on Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Saga
+Distributed Transactions
+
+Notes
+-----
+Applied Saga Pattern in distributed transaction workflows.
+
+
+====================================================
+TECHNOLOGY
+====================================================
+
+Microservices
+
+Category
+--------
+Architecture
+
+Experience Level
+----------------
+Professional Experience
+
+Used At
+-------
+- Vepara Digital Payment and Services
+- Konuşarak Öğren
+
+Related GitHub Projects
+-----------------------
+- BankOps Observatory
+
+Keywords
+--------
+Microservices
+Distributed Systems
+
+Notes
+-----
+Designed, developed and maintained production microservice applications.

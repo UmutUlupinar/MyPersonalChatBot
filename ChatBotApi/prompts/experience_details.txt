@@ -1,0 +1,468 @@
+====================================================
+COMPANY
+====================================================
+
+Digiturk - TOD
+
+Period
+------
+October 2026 - 
+
+Role
+----
+Software Developer
+
+Industry
+--------
+
+Telecommunication
+Streaming
+
+Summary
+-------
+Working as part of the core engineering team responsible for initiating, developing, and delivering management systems for TOD, a global streaming and digital entertainment platform owned by beIN Media Group.
+
+The project focuses on developing backend systems and management capabilities supporting CRM (Customer Relationship Management), CMS (Content Management System), and related business processes.
+
+Contributing to the project from its early stages, participating in architectural and technical decisions, and helping build the systems that support the platform's business operations.
+
+----------------------------------------------------
+Responsibilities
+----------------------------------------------------
+
+- Developed RESTful APIs using .NET Core.
+- Designed new backend modules.
+- Designed new frontend modules.
+- Intialized Crm. 
+- Investigated production issues.
+- Participated in code reviews.
+- Worked with cross-functional teams.
+- Improved system performance.
+- Contributed to deployment processes.
+- Designed DevOps solutions.
+
+----------------------------------------------------
+Architecture
+----------------------------------------------------
+
+- Multi-Tenant Architecture
+- Event Driven Communication
+- REST APIs
+- CQRS
+- Internal Framework
+
+----------------------------------------------------
+Technologies Used
+----------------------------------------------------
+
+Backend
+- .NET Core
+- ASP.NET Web API
+- Entity Framework Core
+
+Database
+- Oracle
+- PL/SQL
+
+Infrastructure
+- Docker
+
+Caching
+- Redis
+
+Search Engine
+-Elasticsearch
+
+Observability
+- Elasticsearch
+- Kibana
+
+Deployment
+
+----------------------------------------------------
+Experience Level
+----------------------------------------------------
+
+.NET Core
+Professional Experience
+
+Docker
+Hands-on Experience
+
+Redis
+Hands-on Experience
+
+Kibana
+Hands-on Experience
+
+Elasticsearch
+Hands-on Experience
+
+----------------------------------------------------
+Interview Notes
+----------------------------------------------------
+
+Worked in a multi-tenant global environment.
+
+Participated in production issue investigations.
+
+====================================================
+COMPANY
+====================================================
+
+Vepara Digital Payment and Services
+
+Period
+------
+August 2023 - January 2026
+
+Role
+----
+Software Developer
+
+Industry
+--------
+Fintech
+Banking
+
+Summary
+-------
+Worked as a backend software developer in a microservice-based fintech platform responsible for digital wallet, payment and reporting services.
+
+----------------------------------------------------
+Responsibilities
+----------------------------------------------------
+
+- Developed RESTful APIs using .NET Core.
+- Developed and maintained microservices.
+- Designed new backend modules.
+- Investigated production issues.
+- Participated in code reviews.
+- Worked with cross-functional teams.
+- Improved system performance.
+- Implemented fintech business requirements.
+- Contributed to deployment processes.
+- Designed DevOps solutions.
+
+----------------------------------------------------
+Architecture
+----------------------------------------------------
+
+- Microservice Architecture
+- Multi-Tenant Architecture
+- Event Driven Communication
+- REST APIs
+- Distributed Systems
+- CQRS
+- Saga Pattern
+
+----------------------------------------------------
+Technologies Used
+----------------------------------------------------
+
+Backend
+- .NET Core
+- ASP.NET Web API
+- Entity Framework Core
+
+Database
+- PostgreSQL
+- SQL
+
+Infrastructure
+- Docker
+- Kubernetes
+
+Messaging
+- NATS
+- RabbitMQ
+- Kafka
+
+Caching
+- Redis
+
+Search Engine
+-Elasticsearch
+
+Observability
+- Jaeger
+- Elasticsearch
+- Kibana
+
+Deployment
+- ArgoCD
+- Caprover
+- Kubernetes
+
+----------------------------------------------------
+Experience Level
+----------------------------------------------------
+
+.NET Core
+Professional Experience
+
+PostgreSQL
+Professional Experience
+
+Docker
+Hands-on Experience
+
+Kubernetes
+Hands-on Experience
+
+Redis
+Hands-on Experience
+
+NATS
+Hands-on Experience
+
+Jaeger
+Hands-on Experience
+
+Kibana
+Familiar Knowledge
+
+Elasticsearch
+Hands-on Experience
+
+----------------------------------------------------
+Interview Notes
+----------------------------------------------------
+
+Implemented REST APIs for fintech services.
+
+Worked in a multi-tenant environment.
+
+Participated in production issue investigations.
+
+Worked with distributed tracing using Jaeger.
+
+Worked with containerized microservices.
+
+Integrated event-driven communication using NATS.
+
+Designed transaction services using CQRS and Saga design pattern
+
+
+
+====================================================
+COMPANY
+====================================================
+
+Turkish Technology
+
+Period
+------
+September 2023 - October 2023
+
+Role
+----
+Software Developer
+
+Industry
+--------
+air transport
+
+Summary
+-------
+Worked as a Full-Stack software developer in a CRM project.
+
+----------------------------------------------------
+Responsibilities
+----------------------------------------------------
+
+- Developed using ASP.NET.
+- Implemented new features and maintained existing services.
+- Fixed production issues.
+- Participated in code reviews.
+- Worked closely with product owners and QA teams.
+- Designed backend solutions for new business requirements.
+
+----------------------------------------------------
+Architecture
+----------------------------------------------------
+
+- Monolith Architecture
+
+----------------------------------------------------
+Technologies Used
+----------------------------------------------------
+
+Backend
+- ASP.NET
+
+Database
+- SQL
+
+----------------------------------------------------
+Experience Level
+----------------------------------------------------
+
+ASP.NET
+
+Professional Experience
+
+----------------------------------------------------
+Interview Notes
+----------------------------------------------------
+
+Participated in production issue investigations.
+
+I left because I wanted to work with more modern technologies and a broader technology stack. The project mainly relied on legacy technologies, and I was looking for opportunities that would better support my technical growth.
+
+
+====================================================
+COMPANY
+====================================================
+
+Otokoç Otomotiv
+
+Period
+------
+December 2023 - May 2026
+
+Role
+----
+Software Developer
+
+Industry
+--------
+Fintech
+Banking
+
+Summary
+-------
+Worked as a backend software developer in ERP system.
+
+----------------------------------------------------
+Responsibilities
+----------------------------------------------------
+
+- Implemented new features and maintained existing services.
+- Fixed production issues.
+- Participated in code reviews.
+- Worked closely with product owners and QA teams.
+- Designed backend solutions for new business requirements.
+
+----------------------------------------------------
+Architecture
+----------------------------------------------------
+
+- Monolith Architecture
+
+----------------------------------------------------
+Technologies Used
+----------------------------------------------------
+
+Backend
+-  ASP .NET Webform
+-  Store Procedure
+
+Database
+- SQL
+
+----------------------------------------------------
+Experience Level
+----------------------------------------------------
+
+.NET
+Professional Experience
+
+SQL
+Professional Experience
+
+----------------------------------------------------
+Interview Notes
+----------------------------------------------------
+
+Participated in production issue investigations.
+
+I left because I wanted to work with more modern technologies and a broader technology stack. The project mainly relied on legacy technologies, and I was looking for opportunities that would better support my technical growth.
+
+
+====================================================
+COMPANY
+====================================================
+
+Konuşarak Öğren
+
+Period
+------
+May 2022 - December 2022
+
+Role
+----
+Software Developer
+
+Industry
+--------
+Education
+
+Summary
+-------
+Worked as a backend software developer in a microservice-based platform.
+
+----------------------------------------------------
+Responsibilities
+----------------------------------------------------
+
+- Developed RESTful APIs using .NET Core.
+- Implemented new features and maintained existing services.
+- Fixed production issues.
+- Participated in code reviews.
+- Worked closely with product owners and QA teams.
+- Designed backend solutions for new business requirements.
+
+----------------------------------------------------
+Architecture
+----------------------------------------------------
+
+- Microservice Architecture
+- Multi-Tenant Architecture
+- REST APIs
+
+----------------------------------------------------
+Technologies Used
+----------------------------------------------------
+
+Backend
+- .NET Core
+- ASP.NET Web API
+- Entity Framework Core
+
+Database
+- SQL
+- MongoDB
+
+Infrastructure
+- Docker
+
+----------------------------------------------------
+Experience Level
+----------------------------------------------------
+
+.NET Core
+Professional Experience
+
+SQL
+Professional Experience
+
+Docker
+Hands-on Experience
+
+Javascript
+Professional Experience
+
+----------------------------------------------------
+Interview Notes
+----------------------------------------------------
+
+Implemented REST APIs for education applications.
+
+Worked in a multi-tenant environment.
+
+Participated in production issue investigations.
+
+Worked with containerized microservices.
+
+I left because of salary expectations.
